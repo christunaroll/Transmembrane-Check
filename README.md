@@ -1,5 +1,4 @@
-# Transmembrane_Check (MCB 185)
-
+# Transmembrane_Check 
 Program that predicts if a protein is trans-membrane based on the following properties:
 - Signal peptide: 
 - Hydrophobic regions(s)
